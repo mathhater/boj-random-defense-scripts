@@ -1,4 +1,4 @@
-## A small collection of scripts for maintaining and experimenting with boj random defense.
+## A small collection of scripts for maintaining and experimenting with BOJ Random Defense.
 
 ### Get a list of language restrict problems
 
